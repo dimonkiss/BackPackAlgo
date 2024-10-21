@@ -1,0 +1,14 @@
+C:\Users\dklxw\RiderProjects\BackPackAlgo\BackPackAlgo\bin\Debug\net8.0\BackPackAlgo.exe
+C:\Users\dklxw\RiderProjects\BackPackAlgo\BackPackAlgo\bin\Debug\net8.0\BackPackAlgo.deps.json
+C:\Users\dklxw\RiderProjects\BackPackAlgo\BackPackAlgo\bin\Debug\net8.0\BackPackAlgo.runtimeconfig.json
+C:\Users\dklxw\RiderProjects\BackPackAlgo\BackPackAlgo\bin\Debug\net8.0\BackPackAlgo.dll
+C:\Users\dklxw\RiderProjects\BackPackAlgo\BackPackAlgo\bin\Debug\net8.0\BackPackAlgo.pdb
+C:\Users\dklxw\RiderProjects\BackPackAlgo\BackPackAlgo\obj\Debug\net8.0\BackPackAlgo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dklxw\RiderProjects\BackPackAlgo\BackPackAlgo\obj\Debug\net8.0\BackPackAlgo.AssemblyInfoInputs.cache
+C:\Users\dklxw\RiderProjects\BackPackAlgo\BackPackAlgo\obj\Debug\net8.0\BackPackAlgo.AssemblyInfo.cs
+C:\Users\dklxw\RiderProjects\BackPackAlgo\BackPackAlgo\obj\Debug\net8.0\BackPackAlgo.csproj.CoreCompileInputs.cache
+C:\Users\dklxw\RiderProjects\BackPackAlgo\BackPackAlgo\obj\Debug\net8.0\BackPackAlgo.dll
+C:\Users\dklxw\RiderProjects\BackPackAlgo\BackPackAlgo\obj\Debug\net8.0\refint\BackPackAlgo.dll
+C:\Users\dklxw\RiderProjects\BackPackAlgo\BackPackAlgo\obj\Debug\net8.0\BackPackAlgo.pdb
+C:\Users\dklxw\RiderProjects\BackPackAlgo\BackPackAlgo\obj\Debug\net8.0\BackPackAlgo.genruntimeconfig.cache
+C:\Users\dklxw\RiderProjects\BackPackAlgo\BackPackAlgo\obj\Debug\net8.0\ref\BackPackAlgo.dll
